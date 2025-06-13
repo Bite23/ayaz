@@ -1,1 +1,1 @@
-README на гитхабе
+README on the GitHub
