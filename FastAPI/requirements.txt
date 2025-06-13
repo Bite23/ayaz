@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+python-keycloak
+asyncpg
+pydantic
